@@ -1,0 +1,16 @@
+public class Dikotil extends Tumbuhan {
+    
+    public Dikotil(int a, String b) {
+        super(a, b);
+    }
+    
+    public void daunMenjari(){
+        System.out.println("Bentuk Daun Menjari");
+    }
+    
+    public void daunMenyirip(){
+        System.out.println("Bentuk Daun Menyirip");
+    }
+         
+    
+}
