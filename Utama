@@ -1,0 +1,8 @@
+public class Utama {
+    public static void main(String[] args) {
+    Jagung jag = new Jagung(1,"Serabut");
+    System.out.println("");
+    Mangga mag = new Mangga(2,"Tunggang");
+    
+    }
+}
